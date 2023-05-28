@@ -4,9 +4,9 @@
 
 <?php
 
-$SalarioTrabajador = 3500;
+$SalarioTrabajador = 5000;
 
-$Impuesto = 20; // Porcentaje
+$Impuesto = 16; // Porcentaje
 
 $SueldoReal = $SalarioTrabajador – (($SalarioTrabajador /
 
